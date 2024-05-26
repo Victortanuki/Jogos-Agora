@@ -1,0 +1,27 @@
+body{
+background-color: rgb(16, 30, 43);;
+}
+.bar{
+    position: fixed;
+    background-color: rgb(26, 55, 81);
+    border-style: none;
+    border-radius: 15px;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    /* gap: 45px; */
+}
+.btnbar{
+    background-color: rgb(22, 74, 121);
+    color: white;
+    border-style: none;
+    border-radius: 20px;
+    border-bottom: 0px;
+    height: 50px;
+    width: 110px;
+    
+   
+}
